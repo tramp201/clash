@@ -1,0 +1,17 @@
+# 内容：Javbus
+# 域名关键字匹配
+# DOMAIN-KEYWORD,Javbus
+# 域名后缀匹配
+DOMAIN,javbus.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,avsox.com
+DOMAIN-SUFFIX,freejavbt.com
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,madouqu.com
+DOMAIN-SUFFIX,madou.tv
+DOMAIN-SUFFIX,hdouban.com
+DOMAIN-SUFFIX,getchu.com
+DOMAIN-SUFFIX,thepiratebay.org
+
+
