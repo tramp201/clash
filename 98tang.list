@@ -10,7 +10,10 @@ DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,omdbaapi.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,thetvdb.com
+
 
 
