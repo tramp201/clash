@@ -86,3 +86,9 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+# Grok
+DOMAIN-SUFFIX,grok.com	Grok 网页端及全部子域名
+DOMAIN-SUFFIX,x.ai	xAI 官网、API、控制台、认证、文档
+DOMAIN-SUFFIX,grokusercontent.com	用户生成内容及相关资源
+DOMAIN-SUFFIX,grokipedia.com	Grokipedia 及相关账号服务
+DOMAIN-SUFFIX,spacex.ai	新旧账号认证相关服务
